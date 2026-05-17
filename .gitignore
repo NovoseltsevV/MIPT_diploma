@@ -8,3 +8,5 @@ build/
 *.blg
 *.fls
 *.fdb_latexmk
+*.synctex.gz
+.claude/
